@@ -1,0 +1,10 @@
+[11-Oct-2020 08:33:44 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[18-Oct-2020 10:34:14 UTC] PHP Warning:  Creating default object from empty value in /home/shaheer/public_html/ecommerce/wp-includes/post.php on line 4145
+[18-Oct-2020 10:34:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, instance of stdClass given, called in /home/shaheer/public_html/ecommerce/wp-includes/class-wp-hook.php on line 289 and defined in /home/shaheer/public_html/ecommerce/wp-content/plugins/elementor/includes/template-library/sources/local.php:1086
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-includes/class-wp-hook.php(289): Elementor\TemplateLibrary\Source_Local->on_save_post(186, Object(stdClass))
+#1 /home/shaheer/public_html/ecommerce/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/shaheer/public_html/ecommerce/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/shaheer/public_html/ecommerce/wp-includes/post.php(4260): do_action('save_post', 186, Object(stdClass), true)
+#4 /home/shaheer/public_html/ecommerce/wp-includes/post.php(4354): wp_insert_post(Array, false)
+#5 /home/shaheer/public_html/ecommerce/wp-content/plugins/elementor in /home/shaheer/public_html/ecommerce/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1086

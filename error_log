@@ -1,0 +1,42 @@
+[17-Oct-2020 20:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+[17-Oct-2020 20:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+[17-Oct-2020 21:01:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+[17-Oct-2020 21:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+[17-Oct-2020 21:05:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+[18-Oct-2020 17:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isGroup() on null in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider in /home/shaheer/public_html/ecommerce/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
